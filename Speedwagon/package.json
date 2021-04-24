@@ -1,0 +1,21 @@
+{
+  "name": "Speedwagon",
+  "version": "1.0.0",
+  "description": "Robert E. O. Speedwagon (ロバート・E・O・スピードワゴン Robāto Ī Ō Supīdowagon) is a major ally featured in the 1st part of JoJo's Bizarre Adventure, Phantom Blood, and then the 2nd part, Battle Tendency. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Hunter Hykes",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.6"
+  }
+}
